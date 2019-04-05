@@ -1,0 +1,15 @@
+# Site settings
+title: Smart Home x DevOps
+email: 
+description: >-
+  The story of one Platform Engineer taking his work home with him - and the
+  untold suffering it brings.
+baseurl: "/blog"
+url: "https://homexdevops.com"
+github_username:  evoio
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
